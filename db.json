@@ -1,0 +1,33 @@
+{
+  "students": [
+    {
+      "name": "Tahmid",
+      "age": 40,
+      "gender": "Male",
+      "skill": "MERN",
+      "id": 1
+    },
+    {
+      "name": "Akib",
+      "age": 30,
+      "gender": "Male",
+      "skill": "IOS",
+      "id": 2
+    },
+    {
+      "name": "Neloy",
+      "age": 50,
+      "gender": "Male",
+      "skill": "DSA",
+      "id": 3
+    },
+    {
+      "name": "Amayra",
+      "age": 20,
+      "gender": "Female",
+      "skill": "Block-Chain",
+      "id": 4
+    }
+  ],
+  "teachers": []
+}
